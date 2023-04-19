@@ -1,6 +1,5 @@
 import sys
 
-
 while True:
     def manage_list(action, item, items_list):
         if action == 'Server toevoegen':
